@@ -1,0 +1,5 @@
+com\example\demo\model\Ingrediente.class
+com\example\demo\model\Ricetta.class
+com\example\demo\controller\RicettaController.class
+com\example\demo\CucinaRicettaApplication.class
+com\example\demo\service\RicettaService.class
